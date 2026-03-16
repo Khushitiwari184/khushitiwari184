@@ -11,7 +11,7 @@ I am always eager to learn new technologies and improve my problem-solving skill
 - 🌱 Currently improving my **Full Stack Development skills**
 - 💡 Interested in **Web Development and scalable applications**
 - 👩‍💻 Love building real-world projects
-- 📫 Reach me at: **khushimona184@gmail.com**
+  
 
 ---
 
@@ -34,7 +34,6 @@ I am always eager to learn new technologies and improve my problem-solving skill
 - MySQL  
 
 ### 🧰 Tools
-- Git  
 - GitHub  
 - VS Code  
 
@@ -56,12 +55,6 @@ I am always eager to learn new technologies and improve my problem-solving skill
 - Developed using **HTML, CSS, JavaScript**
 - Features include **search, watch, and history tracking**
 - Optimized for **fast load time and smooth playback**
-
----
-
-## 📊 Coding Profiles
-- 💻 LeetCode: Solved **200+ problems**
-- ⭐ CodeChef: **2-Star Rating**
 
 ---
 
